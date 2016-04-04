@@ -1,0 +1,4 @@
+Here you can use the database setup file to create the database in MySQL or copy and past from the accompanying text file.
+
+The users tabel has two records with encrypted passwords which are needed to log in to the app using EClipse.
+The passwords are: 1234 and 4321.
